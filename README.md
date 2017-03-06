@@ -4,3 +4,5 @@
 
 * Download a device tree for your box, rename it to dtb.img and copy it to main folder of SD card/USB drive - replace the one that's already there.
 
+* p212 - for Amlogic S905X
+* p200/p201 - for Amlogic S905
