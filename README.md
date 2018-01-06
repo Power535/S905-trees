@@ -6,3 +6,4 @@
 
 * p212 - for Amlogic S905X
 * p200/p201 - for Amlogic S905
+* q200/q201 - for Amlogic S912
